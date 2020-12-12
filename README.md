@@ -1,4 +1,4 @@
-# [cat 1](#cat-1) 
+# [safest](#safest) 
 
 > cat who knows how to be covid safe 
 
@@ -7,7 +7,7 @@
 tel: `+ 372 123 123 123`, email: `example@example.com`
 
 
-# [cat 2](#cat-2) 
+# [kitten](#kitten) 
 
 > friendly kitten who loves to play
 
@@ -15,7 +15,7 @@ tel: `+ 372 123 123 123`, email: `example@example.com`
 
 tel: `+ 372 123 123 123`, email: `example@example.com`
 
-# [cat 3](#cat-3) 
+# [sleepy](#sleepy) 
 
 > old cat who usually sleeps
 
